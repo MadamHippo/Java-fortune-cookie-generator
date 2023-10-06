@@ -1,3 +1,5 @@
+// Fortune cookies game:
+
 import java.lang.Math;
 
 class Fortune {
